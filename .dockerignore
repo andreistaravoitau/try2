@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.env
+config.py
+input/
+.git
+venv/
+node_modules/
